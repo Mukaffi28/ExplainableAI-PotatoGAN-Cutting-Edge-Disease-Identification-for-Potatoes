@@ -59,6 +59,18 @@ The Comprehensive Potato Disease Dataset is now publicly accessible! This datase
 | InceptionResNetV2   | 0.9902       | 0.9912        | 0.9891     | 0.9901       | 0.3533       |
 
 
+### Performance Evaluation of Potato Disease Instance Segmentation
+
+| **Backbone** | **Task Type** | **AP** | **\(AP_{IoU= 0.5}\)** | **\(AP_{IoU= 0.75}\)** | **Dice Score** |
+|--------------|---------------|--------|-------------------------|-------------------------|----------------|
+| ResNet-50    | Segmentation  | 73.204 | 89.733                  | 86.126                  | 0.6014         |
+|              | Bounding Box  | 83.824 | 90.526                  | 86.353                  |                |
+|--------------|---------------|--------|-------------------------|-------------------------|----------------|
+| ResNet-101   | Segmentation  | 78.681 | 92.905                  | 74.851                  | 0.6728         |
+|              | Bounding Box  | 87.886 | 96.409                  | 90.943                  |                |
+|--------------|---------------|--------|-------------------------|-------------------------|----------------|
+| ResNeXt-101  | Segmentation  | 86.039 | 97.030                  | 96.040                  | 0.8112         |
+|              | Bounding Box  | 97.030 | 97.030                  | 97.030                  |                |
 
 
 ## Contact Information
