@@ -11,7 +11,7 @@ Numerous applications have resulted from the automation of agricultural disease 
 - [Contact Information](#contact-information)
 
 ## Proposed Methodology
-[Download PDF](link_to_your_pdf_file/Potato_drawio.pdf)
+![Methodology](potato_disease_methodology.jpg)
 
 ## Experimental Setups
 
