@@ -30,7 +30,7 @@ Numerous applications have resulted from the automation of agricultural disease 
   - RAM: 16 GB
   - Storage: 512 GB NVMe SSD
 
-### Setup 2: Jupyter Notebook Environment
+### Setup 3: Jupyter Notebook Environment
 - **Environment:**
   - Python Version: 3.10.12
   - Tensforflow Version: 2.6.0
