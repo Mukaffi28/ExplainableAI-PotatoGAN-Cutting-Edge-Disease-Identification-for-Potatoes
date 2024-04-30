@@ -93,9 +93,9 @@ For any questions, collaboration opportunities, or further inquiries, please fee
     
 ## Citation
 
-If you find the "Vashantor" dataset or the associated research work helpful, please consider citing our paper:
+<!-- If you find the "Vashantor" dataset or the associated research work helpful, please consider citing our paper:
 
-```bibtex
+This is a comment in a Markdown file ``bibtex
 @misc{faria2023vashantor,
   title={Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language},
   author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Mehidi Ahmmed and Md. Rabius Sani and Tashreef Muhammad},
@@ -103,5 +103,5 @@ If you find the "Vashantor" dataset or the associated research work helpful, ple
   eprint={2311.11142},
   archivePrefix={arXiv},
   primaryClass={cs.CL}
-}
+}-->`
 
