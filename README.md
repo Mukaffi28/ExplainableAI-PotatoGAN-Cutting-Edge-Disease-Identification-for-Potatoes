@@ -93,15 +93,13 @@ For any questions, collaboration opportunities, or further inquiries, please fee
     
 ## Citation
 
-<!-- If you find the "Vashantor" dataset or the associated research work helpful, please consider citing our paper:
-
-This is a comment in a Markdown file ``bibtex
-@misc{faria2023vashantor,
-  title={Vashantor: A Large-scale Multilingual Benchmark Dataset for Automated Translation of Bangla Regional Dialects to Bangla Language},
-  author={Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Mehidi Ahmmed and Md. Rabius Sani and Tashreef Muhammad},
-  year={2023},
-  eprint={2311.11142},
-  archivePrefix={arXiv},
-  primaryClass={cs.CL}
-}-->`
+```bibtex
+@misc{alam2024potatogansutilizinggenerativeadversarial,
+      title={PotatoGANs: Utilizing Generative Adversarial Networks, Instance Segmentation, and Explainable AI for Enhanced Potato Disease Identification and Classification}, 
+      author={Mohammad Shafiul Alam and Fatema Tuj Johora Faria and Mukaffi Bin Moin and Ahmed Al Wase and Md. Rabius Sani and Khan Md Hasib},
+      year={2024},
+      eprint={2405.07332},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.07332},}
 
